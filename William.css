@@ -1,0 +1,105 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    text-transform: capitalize;
+    text-align: justify;
+}
+.container{
+    padding: 15px;
+}
+h1{
+    color: aqua;
+}
+.william{
+    width: 20%;
+    height: auto;
+    margin-left: 75%;
+    border:2px solid aqua;
+    top: 0px;
+}
+.leftbox{
+    top: 15%;
+    position: absolute;
+}
+.william img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.tittle{
+    margin-left: 20px;
+    padding-left: 20px;
+    width: 70%;
+}
+.brazil{
+    width: 20%; 
+    margin-left: 75%;
+    margin-top: 60px;
+    border:2px solid aqua;
+}
+.brazil img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.josi{
+    width: 20%; 
+    margin-left: 75%;
+    margin-top: 10px;
+    border:2px solid aqua;
+}
+.josi img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;   
+}
+.john{
+    width: 20%; 
+    margin-left: 75%;
+    margin-top: 6%;
+    border:2px solid aqua;
+    height: 400px;
+}
+.john img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.houghton{
+    width: 20%; 
+    margin-left: 75%;
+    margin-top:10%;
+    border:2px solid aqua;
+    height: 500px;
+}
+.houghton img{
+    width: 200px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.longimg{
+    width: 100%;
+    height: 100vh;
+}
+.longimg img {
+    width: 100%;
+    height: 691px;
+}
+h1{ 
+    position: absolute;
+    margin-left: 58%;
+    letter-spacing: 3px;
+    margin-top: -610px;
+    color: rgb(1,171,190);
+ 
+}
+.longin{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: 2px solid  rgb(1,171,190);
+    border-radius: 50px;
+    margin-left: 50%;
+    margin-top: -550px;
+   
+   
+}
+input{
+    width:400px;
+    padding-top: 10px;
+    background-color: blanchedalmond;
+    outline: none;
+    background: transparent;
+    font-size: 20px;
+    border-style: none;
+    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(1,171,190);
+}
+button{
+    width: 160px;
+    height: 50px;
+    cursor: pointer;
+    cursor: pointer;
+    margin-top: 40px;
+    background: transparent;
+    color: rgb(1,171,190);
+    border: 2px solid rgb(1,171,190);
+    color: black;
+    border-radius: 50px;
+   
+}
